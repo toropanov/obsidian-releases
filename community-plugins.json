@@ -50839,5 +50839,12 @@
     "author": "awesomedog",
     "description": "A Markdown formatting bar for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "awesomedog/obsidian-awesome-format-bar"
+  },
+  {
+    "id": "conflict-resolver",
+    "name": "Conflict Resolver",
+    "author": "Anton Toropanov",
+    "description": "Finds sync-conflict copies and safely resolves duplicates in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "toropanov/obsidian-conflict-resolver"
   }
 ]
